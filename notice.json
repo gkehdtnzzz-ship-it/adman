@@ -1,20 +1,19 @@
 {
   "enabled": true,
   "title": "안녕하세요. 아이온2 오드 매니저입니다.",
-  "message": "공지사항은 여기 표시됩니다.",
+  "message": "gkehdtnzzz@gmail.com 피드백/버그제보.",
   "version": "1.0.0",
   "popup": {
     "enabled": true,
     "id": "ad_2026_05_01",
-    "title": "광고 / 이벤트 안내",
+    "title": "광고",
     "subtitle": "AION2 ODE MANAGER",
     "message": [
-      "신규 이벤트 안내입니다.",
-      "이미지와 링크를 넣어 광고 팝업처럼 사용할 수 있습니다."
+      "해당 배너는 수익형 광고로 광고주로부터 수수료를 받습니다"
     ],
-    "image": "https://gkehdtnzzz-ship-it.github.io/adman/ad.png",
+    "image": "https://gkehdtnzzz-ship-it.github.io/adman/zig.png",
     "link_text": "자세히 보기",
-    "link_url": "https://blog.naver.com/...",
+    "link_url": "https://deg.kr/1d9eff8",
     "button_text": "확인",
     "show_once_per_day": true
   }
