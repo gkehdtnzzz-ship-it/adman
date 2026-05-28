@@ -1,1 +1,44 @@
-{ "enabled": true, "title": "안녕하세요. 아이온2 오드 매니저입니다.", "message": "gkehdtnzzz@gmail.com 피드백/버그제보.", "version": "1.0.0", "popup": { "enabled": true, "id": "ad_2026_05_01", "title": "광고", "subtitle": "AION2 ODE MANAGER", "message": [ "해당 배너는 수익형 광고로 광고주로부터 수수료를 받습니다" ], "image": "https://gkehdtnzzz-ship-it.github.io/adman/zig.png", "link_text": "자세히 보기", "link_url": "https://deg.kr/1d9eff8", "button_text": "확인", "show_once_per_day": true } }
+{
+  "enabled": true,
+
+  "title": "안녕하세요. 아이온2 오드 매니저입니다.",
+  "message": "gkehdtnzzz@gmail.com 피드백/버그제보.",
+
+  "version": "1.0.0",
+
+  "popup": {
+    "enabled": true,
+    "id": "ad_2026_05_01",
+
+    "title": "광고",
+    "subtitle": "AION2 ODE MANAGER",
+
+    "message": [
+      "해당 배너는 수익형 광고로 광고주로부터 수수료를 받습니다"
+    ],
+
+    "image": "https://gkehdtnzzz-ship-it.github.io/adman/zig.png",
+
+    "link_text": "자세히 보기",
+    "link_url": "https://deg.kr/1d9eff8",
+
+    "button_text": "확인",
+
+    "show_once_per_day": true
+  },
+
+  "update": {
+    "enabled": true,
+
+    "latest_version": "1.0.1",
+
+    "download_url": "https://github.com/gkehdtnzzz-ship-it/adman/releases/download/v1.0.1/AION2%20ODE%20MANAGER.exe",
+
+    "message": [
+      "신규 기능 및 버그 수정이 포함되어 있습니다.",
+      "업데이트 후 자동 재실행됩니다."
+    ],
+
+    "force": false
+  }
+}
