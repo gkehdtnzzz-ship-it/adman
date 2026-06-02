@@ -1,10 +1,10 @@
 {
   "enabled": true,
 
-  "title": "디스코드 ddeongsu_ // v1.0.2 이하버전 무한 업데이트 증상 수정 완료했으나 수동 재설치 해야 정상작동 ",
-  "message": "최신 링크를 받고 싶으시면 디스코드 주세요 !또는 에펨코리아 아이온2갤 오드 매니저 검색",
+  "title": "디스코드 ddeongsu_ // AION2 ODE MANAGER v1.0.4 배포 완료",
+  "message": "오드 멤버십 자동충전 및 원정/초월 보상횟수 충전 로직 수정본입니다. 최신 링크가 필요하면 디스코드 주세요 !또는 에펨코리아 아이온2갤 오드 매니저 검색",
 
-  "version": "1.0.3",
+  "version": "1.0.4",
 
   "popup": {
     "enabled": true,
@@ -30,15 +30,14 @@
   "update": {
     "enabled": true,
 
-    "latest_version": "1.0.3",
+    "latest_version": "1.0.4",
 
-    "download_url": "https://github.com/gkehdtnzzz-ship-it/adman/releases/download/v1.0.3/AION2_ODE_MANAGER.exe",
+    "download_url": "https://github.com/gkehdtnzzz-ship-it/adman/releases/download/v1.0.4/AION2_ODE_MANAGER.exe",
 
     "message": [
-      " 기본오드 우선 사용으로 버그 픽스 및 원정 초월 추가 보상티켓에 대한 로직 업데이트 완료",
-  "무한 업데이트가 반복되면 최신 EXE를 수동 설치해주세요.",
-       "업데이트 후 무한 업데이트 증상 수정완료."
-         
+      "오드 멤버십 사용중 계정의 자동충전이 충전주기마다 +15로 적용되도록 수정했습니다.",
+      "원정/초월 보상횟수는 주간 초기화로 충전하지 않고 각 타이머로만 충전되도록 수정했습니다.",
+      "원정/초월 추가 보상권 수동 추가 기능은 유지됩니다."
     ],
 
     "force": false
