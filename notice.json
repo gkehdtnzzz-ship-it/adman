@@ -1,45 +1,31 @@
 {
-  "enabled": true,
-
-  "title": "디스코드 ddeongsu_ // AION2 ODE MANAGER v1.0.4 배포 완료",
-  "message": "오드 멤버십 자동충전 및 원정/초월 보상횟수 충전 로직 수정본입니다. 최신 링크가 필요하면 디스코드 주세요 !또는 에펨코리아 아이온2갤 오드 매니저 검색",
-
-  "version": "1.0.4",
-
-  "popup": {
-    "enabled": true,
-    "id": "ad_2026_05_01",
-
-    "title": "광고",
-    "subtitle": "AION2 ODE MANAGER",
-
-    "message": [
-      "해당 배너는 수익형 광고로 광고주로부터 수수료를 받습니다"
-    ],
-
-    "image": "https://gkehdtnzzz-ship-it.github.io/adman/zig.png",
-
-    "link_text": "자세히 보기",
-    "link_url": "https://deg.kr/1d9eff8",
-
-    "button_text": "확인",
-
-    "show_once_per_day": true
-  },
-
-  "update": {
-    "enabled": true,
-
-    "latest_version": "1.0.4",
-
-    "download_url": "https://github.com/gkehdtnzzz-ship-it/adman/releases/download/v1.0.4/AION2_ODE_MANAGER.exe",
-
-    "message": [
-      "오드 멤버십 사용중 계정의 자동충전이 충전주기마다 +15로 적용되도록 수정했습니다.",
-      "원정/초월 보상횟수는 주간 초기화로 충전하지 않고 각 타이머로만 충전되도록 수정했습니다.",
-      "원정/초월 추가 보상권 수동 추가 기능은 유지됩니다."
-    ],
-
-    "force": false
-  }
+    "enabled":  true,
+    "title":  "디스코드 ddeongsu_ // AION2 ODE MANAGER v1.0.4 배포 완료",
+    "message":  "오드 멤버십 자동충전 및 원정/초월 보상횟수 충전 로직 수정본입니다. 최신 링크가 필요하면 디스코드 주세요 !또는 에펨코리아 아이온2갤 오드 매니저 검색",
+    "version":  "1.0.4",
+    "popup":  {
+                  "enabled":  true,
+                  "id":  "ad_2026_06_15_adpick_shoppingmate",
+                  "title":  "광고",
+                  "subtitle":  "AION2 ODE MANAGER",
+                  "message":  [
+                                  "해당 배너는 수익형 광고로 광고주로부터 수수료를 받습니다"
+                              ],
+                  "image":  "https://gkehdtnzzz-ship-it.github.io/adman/adpick_shoppingmate.png",
+                  "link_text":  "자세히 보기",
+                  "link_url":  "https://deg.kr/82452bd",
+                  "button_text":  "확인",
+                  "show_once_per_day":  true
+              },
+    "update":  {
+                   "enabled":  true,
+                   "latest_version":  "1.0.4",
+                   "download_url":  "https://github.com/gkehdtnzzz-ship-it/adman/releases/download/v1.0.4/AION2_ODE_MANAGER.exe",
+                   "message":  [
+                                   "오드 멤버십 사용중 계정의 자동충전이 충전주기마다 +15로 적용되도록 수정했습니다.",
+                                   "원정/초월 보상횟수는 주간 초기화로 충전하지 않고 각 타이머로만 충전되도록 수정했습니다.",
+                                   "원정/초월 추가 보상권 수동 추가 기능은 유지됩니다."
+                               ],
+                   "force":  false
+               }
 }
